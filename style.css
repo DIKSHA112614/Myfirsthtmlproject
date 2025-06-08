@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+
+p{
+    color: bisque;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h1{
+    color: aliceblue;
+    font-weight: 100;
+    font-size: medium;
+    text-align: center;
+}
+
+h2{ 
+    color: aqua;
+    font-style: inherit;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h3{
+    forced-color-adjust: none;
+    color: aqua;
+    font-style: oblique;
+    text-align: center;
+}
+
+h4{
+   font-style: unset;
+   color: aliceblue;
+}
+
+h5{
+    color: beige;
+}
+
+h6{
+    color: aqua;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
